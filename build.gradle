@@ -22,7 +22,7 @@ repositories {
 
 dependencies {
 
-    testImplementation "junit:junit:{junit_version}"
+    testImplementation "junit:junit:${junit_version}"
 }
 
 test {

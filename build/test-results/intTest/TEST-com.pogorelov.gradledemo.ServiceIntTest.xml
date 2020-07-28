@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pogorelov.gradledemo.ServiceIntTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-28T17:25:51" hostname="DESKTOP-I0TBOTI" time="0.003">
+  <properties/>
+  <testcase name="testNothing" classname="com.pogorelov.gradledemo.ServiceIntTest" time="0.003"/>
+  <system-out><![CDATA[WE ARE IN INT TEST
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
